@@ -7,6 +7,7 @@ I am currently learning Data Analytics at WBS Coding School.
 ##  Skills I am building
 - SQL
 - Python
+- Panda
 - Tableau
 - Git & GitHub
 
